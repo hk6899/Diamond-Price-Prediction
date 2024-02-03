@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DiamondPricepredition
+Version: 0.0.1
+Author: Harikrishnan S
+Author-email: harikrishnan6899@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask

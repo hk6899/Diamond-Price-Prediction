@@ -1,0 +1,10 @@
+[ 2024-02-06 15:12:48,900 ] 24 root - INFO - Data Ingestion Method Starts
+[ 2024-02-06 15:12:49,100 ] 27 root - INFO - Dataset Read as pandas df
+[ 2024-02-06 15:12:50,189 ] 30 root - INFO - Raw data created
+[ 2024-02-06 15:12:51,260 ] 35 root - INFO - Ingestion completed
+[ 2024-02-06 15:12:51,467 ] 65 root - INFO - get preprocessor obj
+[ 2024-02-06 15:12:51,467 ] 34 root - INFO - Data Transformation Pipeline Initiated
+[ 2024-02-06 15:12:51,467 ] 54 root - INFO - Data Transformation COmpleted
+[ 2024-02-06 15:12:51,767 ] 27 root - INFO - Splitting Dependent and Independent variables from train and test data
+[ 2024-02-06 15:12:53,735 ] 46 root - INFO - Model Report : {'LinearRegression': 0.9362906819996049, 'Lasso': 0.9362869814082755, 'Ridge': 0.9362900967491632, 'Elasticnet': 0.8544967219374031, 'DecisionTree': 0.9551001944822906}
+[ 2024-02-06 15:12:53,736 ] 59 root - INFO - Best Model Found , Model Name : DecisionTree , R2 Score : 0.9551001944822906

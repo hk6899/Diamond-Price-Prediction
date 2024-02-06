@@ -1,0 +1,10 @@
+[ 2024-02-06 15:14:38,833 ] 24 root - INFO - Data Ingestion Method Starts
+[ 2024-02-06 15:14:39,021 ] 27 root - INFO - Dataset Read as pandas df
+[ 2024-02-06 15:14:40,099 ] 30 root - INFO - Raw data created
+[ 2024-02-06 15:14:41,414 ] 35 root - INFO - Ingestion completed
+[ 2024-02-06 15:14:41,658 ] 65 root - INFO - get preprocessor obj
+[ 2024-02-06 15:14:41,658 ] 34 root - INFO - Data Transformation Pipeline Initiated
+[ 2024-02-06 15:14:41,658 ] 54 root - INFO - Data Transformation COmpleted
+[ 2024-02-06 15:14:42,036 ] 28 root - INFO - Splitting Dependent and Independent variables from train and test data
+[ 2024-02-06 15:15:51,969 ] 48 root - INFO - Model Report : {'LinearRegression': 0.9362906819996049, 'Lasso': 0.9362869814082755, 'Ridge': 0.9362900967491632, 'Elasticnet': 0.8544967219374031, 'DecisionTree': 0.9549456805395387, 'RandomForest': 0.9768543322743516}
+[ 2024-02-06 15:15:51,969 ] 61 root - INFO - Best Model Found , Model Name : RandomForest , R2 Score : 0.9768543322743516

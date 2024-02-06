@@ -1,0 +1,7 @@
+[ 2024-02-06 14:31:53,793 ] 24 root - INFO - Data Ingestion Method Starts
+[ 2024-02-06 14:31:54,791 ] 27 root - INFO - Dataset Read as pandas df
+[ 2024-02-06 14:31:57,339 ] 30 root - INFO - Raw data created
+[ 2024-02-06 14:31:59,135 ] 35 root - INFO - Ingestion completed
+[ 2024-02-06 14:31:59,565 ] 65 root - INFO - get preprocessor obj
+[ 2024-02-06 14:31:59,565 ] 34 root - INFO - Data Transformation Pipeline Initiated
+[ 2024-02-06 14:31:59,565 ] 54 root - INFO - Data Transformation COmpleted
